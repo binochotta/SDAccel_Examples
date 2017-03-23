@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <remote>master</remote>
+  <release>2017.3</release>
+  <revision>1.0</revision>
+  <catagory_order>getting_started,acceleration,security,vision,libs,utility</example_catagory_order>
+  <categories>
+    <category>
+      <name>getting_started</name>
+      <type>example</type>
+      <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      <revision>1.0</revision>
+    </category>
+    <category>
+      <name>acceleration</name>
+      <type>example</type>
+      <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      <revision>1.0</revision>
+    </category>
+    <category>
+      <name>security</name>
+      <type>example</type>
+      <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      <revision>1.0</revision>
+    </category>
+    <category>
+      <name>vision</name>
+      <type>example</type>
+      <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      <revision>1.0</revision>
+    </category>
+    <category>
+      <name>libs</name>
+      <type>lib</type>
+      <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      <revision>1.0</revision>
+    </category>
+    <category>
+      <name>utility</name>
+      <type>utility</type>
+      <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      <revision>1.0</revision>
+    </category>
+  </categories>
+</catalog>

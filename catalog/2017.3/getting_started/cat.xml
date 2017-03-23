@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <category>
+    <name>getting_started</name>
+    <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+    <summary></summary>
+    <examples>
+      <example>
+        <revision_history></revision_history>
+        <name>basic</name>
+        <summary></summary>
+        <display>Basic</display>
+        <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      </example>
+      <example>
+        <revision_history></revision_history>
+        <name>clk_freq</name>
+        <summary></summary>
+        <display>Clock Frequency</display>
+        <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      </example>
+      <example>
+        <revision_history></revision_history>
+        <name>dataflow</name>
+        <summary></summary>
+        <display>Data Flow</display>
+        <commit_id>a302298cd95e7d1598340b511b8e97e03ed6e245</commit_id>
+      </example>
+    </examples>
+  </category>	
+</catalog>
